@@ -3,14 +3,16 @@
 About fisayo
 
 ## Getting Started
+A simple profile app
 
-This project is a starting point for a Flutter application.
+My app consists of a single page
 
-A few resources to get you started if this is your first Flutter project:
+Libraries uses:
+◼️ google_font_flutter
+◼️ font_awesome_flutter
+◼️ url_launcher
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+If had more time i would like to make it more responsive
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+apk link: https://drive.google.com/file/d/18UId00HIe_yQZD6MI247Ck-RNYV0iPg0/view?usp=share_link
+
