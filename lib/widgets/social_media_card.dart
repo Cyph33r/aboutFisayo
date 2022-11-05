@@ -15,12 +15,12 @@ class SocialMediaCard extends StatelessWidget {
           SocialLinkButton(
               title: '@ajai_fisayo',
               icon: FontAwesomeIcons.twitter,
-              link: 'www.twitter.com/ajai_fisayo',
+              link: 'https://www.twitter.com/ajai_fisayo',
               iconColor: Colors.blue),
           SocialLinkButton(
             title: '@cyph33r',
             icon: FontAwesomeIcons.github,
-            link: 'github.com/cyph33r',
+            link: 'https://www.github.com/cyph33r',
           ),
           SocialLinkButton(
             title: 'https://www.linkedin.com/in/olufisayo-ajai-a014271aa/',
@@ -37,7 +37,7 @@ class SocialMediaCard extends StatelessWidget {
           SocialLinkButton(
             title: '@d__coder',
             icon: FontAwesomeIcons.instagram,
-            link: 'instagram.com/d____coder',
+            link: 'https://www.instagram.com/d____coder',
             iconColor: Colors.pink,
           ),
         ],
