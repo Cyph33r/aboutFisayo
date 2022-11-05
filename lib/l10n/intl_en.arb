@@ -1,0 +1,11 @@
+{
+    "_locale":"en",
+    "sdf":"welcome {firstname} {secondname}",
+    "@sdf":
+        {
+        "placeholders": {
+                "firstname": {},
+                "secondname": {}
+            }
+        }
+}
